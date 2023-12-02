@@ -47,6 +47,6 @@ Note: Encrypted file is overwritten with the decrypted. Works like magic.
 
 ## Contributors
 - photonkay
-- enoch1357
+- Enoch1357
 
 Enjoy the abstraction, cyphers!!!
