@@ -1,9 +1,9 @@
-# Cypher: StayingCoded
+# Pepae: StayingCoded
 
-Cypher is developed by us to encrypt and decrypt our messages.
+Pepae is developed by us to encrypt and decrypt our messages. Our goal is to be shady.
 
 ## Features
-- **Encryption:** Convert plain text messages into encrypted texts.
+- **Encryption:** Convert plain text messages into encrypted tuple texts.
 - **Decryption:** Decrypt previously encrypted messages to retrieve the original.
 
 ## Usage
@@ -12,7 +12,7 @@ Cypher is developed by us to encrypt and decrypt our messages.
 To encrypt a message, use the following command:
 
 ```bash
-python encryption.py input_file_path output_file_path
+python pepae.py -e input_file_path output_file_path
 ```
 
 - `input_file_path`: The path to the file containing the message you want to encrypt.
@@ -22,11 +22,11 @@ python encryption.py input_file_path output_file_path
 To decrypt a message, use the following command:
 
 ```bash
-python decryption.py input_file_path
+python pepae.py -d input_file_path
 ```
 
 - `input_file_path`: The path to the file containing the encrypted message.
-Note: Encrypted file is overwritten with the decrypted. Works like magic.
+Note (Automagically): The encrypted file is overwritten with the decrypted. Works like magic.
 
 ## Getting Started
 
@@ -39,7 +39,7 @@ Note: Encrypted file is overwritten with the decrypted. Works like magic.
 2. Navigate to the project directory:
 
     ```bash
-    cd cypher_abstraction
+    cd pepae
     ```
 
 3. Encrypt or Decrypt as specified in the usage
@@ -47,6 +47,6 @@ Note: Encrypted file is overwritten with the decrypted. Works like magic.
 
 ## Contributors
 - photonkay
-- Enoch1357 
+- Enoch1357
 
-Enjoy the abstraction, cyphers!!!
+Enjoy the secured communication, all thanks to PEPAE! Happy *abstraction*, guys!
