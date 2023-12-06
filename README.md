@@ -7,7 +7,7 @@ Pepae (pronounced as pep) is developed by us to encrypt and decrypt our messages
 - **Decryption:** Decrypt previously encrypted messages to retrieve the original.
 
 ## Help
-You can use the command:
+To learn the usage of pepae use the command:
 ```bash
 python pepae.py -h
 ```
@@ -15,7 +15,7 @@ or
 ```bash
 python pepae.py --help
 ```
-to learn the usage of pepae. Nonetheless, below is the usage
+Nonetheless, below is the usage
 
 ## Usage
 
@@ -50,7 +50,7 @@ Note (Automagically): The encrypted file is overwritten with the decrypted. Work
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/photonkay/cypher_abstraction.git
+    git clone https://github.com/photonkay/pepae.git
     ```
 
 2. Navigate to the project directory:
