@@ -1,6 +1,6 @@
 # Pepae: StayingCoded
 
-Pepae is developed by us to encrypt and decrypt our messages. Our goal is to be shady.
+Pepae (pronounced as pep) is developed by us to encrypt and decrypt our messages. Our goal is to be shady.
 
 ## Features
 - **Encryption:** Convert plain text messages into encrypted tuple texts.
